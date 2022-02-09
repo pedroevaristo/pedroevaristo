@@ -13,7 +13,7 @@
 **◉ Atom.io**
 <br/>
 
-### Próximos objetivos(Ling. de programação & Utilizar ferramentas):
+### Próximos objetivos(Linguagens de programação & Utilização de ferramentas):
 ○ Python;
 <br/>
 ○ Rust;

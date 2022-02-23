@@ -6,13 +6,6 @@
 **◉ C++**
 <br/>
 
-### As ferramentas:
-
-**◉ VS Code**
-<br/>
-**◉ Atom.io**
-<br/>
-
 ### Próximos objetivos(Linguagens de programação & Utilização de ferramentas):
 ○ Python;
 <br/>

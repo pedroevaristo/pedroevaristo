@@ -1,5 +1,10 @@
 # Olá 
 
+Fazendo faculdade de Ciência da computação na: 
+ 
+![UnP](https://loja.unponline.com.br/media/logo/stores/19/UNP.png)
+
+
 ``
  As linguagens de programação que tenho conhecimento 
  razoável: 
@@ -20,10 +25,3 @@
 - [ ] HTML;
 - [ ] CSS;
 - [ ] JavaScript;
-
-* _Sistema Operacional_:
-![Windows](https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white)
-<br/>
- Redes Sociais: 
- 
-- **[Twitter]("https://twitter.com/PedroEv59410240")**

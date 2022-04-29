@@ -1,4 +1,4 @@
-# Olá 
+# Olá. From Natal, Rio Grande do Norte 🖐️
 
 Fazendo faculdade de Ciência da computação na: 
  

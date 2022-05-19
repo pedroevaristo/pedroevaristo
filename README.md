@@ -22,7 +22,4 @@
 - [ ] PowerShell;
 - [ ] Vim;
 - [ ] Java;
-- [ ] HTML;
-- [ ] CSS;
-- [ ] JavaScript;
 <a href="https://app.daily.dev/Barao"><img src="https://api.daily.dev/devcards/2d5b7d651e334ebaaf42908fec442901.png?r=csq" width="400" alt="Pedro Evaristo Dantas Zaranza's Dev Card"/></a>

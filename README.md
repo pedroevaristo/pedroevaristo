@@ -23,8 +23,3 @@
 [![java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white)]()
 [![flutter](https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white)]()
 [![react](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)]()
-[![powershell](https://img.shields.io/badge/Powershell-2CA5E0?style=for-the-badge&logo=powershell&logoColor=white)]()
-
-
-
-<a href="https://app.daily.dev/Barao"><img src="https://api.daily.dev/devcards/2d5b7d651e334ebaaf42908fec442901.png?r=csq" width="400" alt="Pedro Evaristo Dantas Zaranza's Dev Card"/></a>

@@ -9,7 +9,6 @@
  As linguagens de programação que tenho conhecimento 
  razoável: 
  ``
-- [x] Linguage C 
 - [x] C++
 
 

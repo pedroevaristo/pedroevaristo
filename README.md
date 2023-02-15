@@ -6,8 +6,7 @@
 
 
 ``
- As linguagens de programação que tenho conhecimento 
- razoável: 
+ As linguagens de programação que tenho conhecimento : 
  ``
 - [x] C++
 

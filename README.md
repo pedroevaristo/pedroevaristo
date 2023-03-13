@@ -6,7 +6,7 @@
 
 
 ``
- As linguagens de programação que tenho conhecimento : 
+ As linguagens de programação que adquirir conhecimento : 
  ``
 - [x] C++
 
@@ -16,7 +16,6 @@
 
 > Próximos objetivos:			
 [![python](https://img.shields.io/badge/Python-14354C?style=for-the-badge&logo=python&logoColor=white)]()
-[![rust](https://img.shields.io/badge/Rust-000000?style=for-the-badge&logo=rust&logoColor=white)]()
 [![vim](https://img.shields.io/badge/VIM-%2311AB00.svg?&style=for-the-badge&logo=vim&logoColor=white)]()
 [![java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white)]()
 [![flutter](https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white)]()

@@ -16,3 +16,4 @@ my contacts:
 ![](https://img.shields.io/badge/Visual_Studio_Code-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white)
 ![](https://img.shields.io/badge/Eclipse-2C2255?style=for-the-badge&logo=eclipse&logoColor=white)
 
+[![roadmap.sh](https://roadmap.sh/card/tall/662ba57d4e8cd00d38b7759b?variant=dark)](https://roadmap.sh)
